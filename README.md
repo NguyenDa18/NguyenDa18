@@ -6,26 +6,26 @@
 ---
 
 - ### Cambia Health Solutions Software Engineer (Jun 2019 - Present)
-    ❖ Independently architected and implemented automated vanity URL generation based off parsing and
+    - Independently architected and implemented automated vanity URL generation based off parsing and
     processing Excel workbooks from stakeholders. Utilized AWS Lambda, DynamoDB, S3, and API
     Gateway for serverless solution. Quickly adapted to using Flask server for final service design.
-    ❖ Quickly learned necessary ClojureScript to implement e-commerce demographics module for web
+    - Quickly learned necessary ClojureScript to implement e-commerce demographics module for web
     codebase, porting validation logic used in current shopping site codebase.
-    ❖ Identified and resolved bugs for major codebase production releases.
-    ❖ Implemented Clojure service for plan benefits and vanity URL internal tool, migrated vanity URL handler
+    - Identified and resolved bugs for major codebase production releases.
+    - Implemented Clojure service for plan benefits and vanity URL internal tool, migrated vanity URL handler
     to Clojure web codebase for decommissioning of previous codebase, and introduced automated E2E
     Cypress.js testing to QA team. Utilized GitLab for deployment pipelines.
-    ❖ Ported subsidy calculation logic from Java to current Clojure web service codebase.
+    - Ported subsidy calculation logic from Java to current Clojure web service codebase.
 
 - ### Cambia Health Solutions Software Developer Intern (Jun 2018 - Dec 2018)
-    ❖ Fulfilled developer tasks for React and Redux insurance plan shopping app during weekly sprints.
-    ❖ Implemented Salesforce endpoint in Java backend Spring client to connect with products Apex endpoint
+    - Fulfilled developer tasks for React and Redux insurance plan shopping app during weekly sprints.
+    - Implemented Salesforce endpoint in Java backend Spring client to connect with products Apex endpoint
     through SOAP protocol. Pushed changes to Jenkins and resolved defects from UAT. Utilized SOQL for document retrieval. Successfully converted pages with static content to components dynamically pulling content from Salesforce database.
 
 - ### McAfee Software Engineering Intern (Jun 2017 - Dec 2017)
-    ❖ Extensively researched and implemented CAPTCHA protection for on-prem ePO. Resolved bugs and
+    - Extensively researched and implemented CAPTCHA protection for on-prem ePO. Resolved bugs and
     wrote JUnit tests for CAPTCHA and audit log functionality.
-    ❖ Implemented data loader to migrate SQL data to AWS Aurora instance. Utilized AWS resources
+    - Implemented data loader to migrate SQL data to AWS Aurora instance. Utilized AWS resources
     including EC2, API Gateway, and Lambda functions.
 
 ## Education
