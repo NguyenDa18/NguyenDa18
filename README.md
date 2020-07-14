@@ -1,4 +1,4 @@
-### Danh Nguyen | [Site](https://danhwashere.com/)
+# **Danh Nguyen** | [Site](https://danhwashere.com/)
 
 ![Welcome to my space](https://res.cloudinary.com/dnguyen/image/upload/v1584826410/blog/personal/desk_background_ico88y.jpg)
 
