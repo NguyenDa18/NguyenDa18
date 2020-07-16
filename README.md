@@ -1,5 +1,12 @@
 # **Danh Nguyen** | [Site](https://danhwashere.com/)
 
+<p align="center">
+<img src="https://64.media.tumblr.com/7e2640054d506699873234becee9ab9c/tumblr_pkffwiVXOu1qze3hdo1_500.gifv" />
+</p>
+<p align="center">
+  <sub>Image by <a href="https://1041uuu.tumblr.com/" target="_blank">1041uuu</a></sub>
+</p>
+
 ![Welcome to my space](https://res.cloudinary.com/dnguyen/image/upload/v1584826410/blog/personal/desk_background_ico88y.jpg)
 
 ## Work Experience
