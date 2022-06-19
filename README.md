@@ -12,7 +12,11 @@
 ## Work Experience
 ---
 
-- ### Cambia Health Solutions Software Engineer (Jun 2019 - Present)
+- ### Adobe Software Developer II (Apr 2022 - Present)
+    - Updating Marketo Engage application to use next generation React and Redux components, utilizing Adobe React Spectrum UI library and internal components
+    - Improving unit test pipeline utilizing Selenium and Jest
+
+- ### Cambia Health Solutions Software Engineer (Jun 2019 - Mar 2022)
     - Independently architected and implemented automated vanity URL generation based off parsing and
     processing Excel workbooks from stakeholders. Utilized AWS Lambda, DynamoDB, S3, and API
     Gateway for serverless solution. Quickly adapted to using Flask server for final service design.
