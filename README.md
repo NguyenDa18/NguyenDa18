@@ -15,6 +15,8 @@
 - ### Adobe Software Developer II (Apr 2022 - Present)
     - Updating Marketo Engage application to use next generation React and Redux components, utilizing Adobe React Spectrum UI library and internal components
     - Improving unit test pipeline utilizing Selenium and Jest
+    - Practicing TDD with react-testing-library unit tests for components implemented
+    - Utilizing TypeScript, React Context for complex component, and Redux for global state management
 
 - ### Cambia Health Solutions Software Engineer (Jun 2019 - Mar 2022)
     - Independently architected and implemented automated vanity URL generation based off parsing and
